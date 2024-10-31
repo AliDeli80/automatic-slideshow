@@ -21,12 +21,6 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/automatic-slideshow/
 
 <br>
 
-## How it Works
-
-1. Image Selection: The script selects images from a specified directory or a list of image URLs.
-2. Slide Display: The current image is displayed in an HTML element.
-3. Automatic Transition: The script uses setInterval() to automatically switch to the next image after a set interval, with a smooth fading transition.
-4. Manual Control: Users can manually navigate through the slides using the navigation buttons.
 
 ## Getting Started
 
@@ -35,6 +29,13 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/automatic-slideshow/
   ```sh
   git clone https://github.com/AliDeli80/automatic-slideshow.git
   ```
+
+## How it Works
+
+1. Image Selection: The script selects images from a specified directory or a list of image URLs.
+2. Slide Display: The current image is displayed in an HTML element.
+3. Automatic Transition: The script uses setInterval() to automatically switch to the next image after a set interval, with a smooth fading transition.
+4. Manual Control: Users can manually navigate through the slides using the navigation buttons.
 
 ## Customization
 
