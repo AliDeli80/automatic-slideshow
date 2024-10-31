@@ -13,14 +13,9 @@ A simple JavaScript-based automatic slideshow with features like:
 - Autoplay functionality
 - Responsive design
 
-<br>
-
 ## Preview
 
 https://htmlpreview.github.io/?https://github.com/AliDeli80/automatic-slideshow/blob/master/html/index.html
-
-<br>
-
 
 ## Getting Started
 
@@ -44,7 +39,6 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/automatic-slideshow/
 - Transition Effects: Experiment with different CSS transition and animation properties to customize the visual effects.
 - Navigation Button Style: Modify the CSS to change the appearance of the navigation buttons.
 - Autoplay Behavior: Customize the autoplay behavior, such as adding a delay before the first slide or setting a specific autoplay interval.
-
 
 ## Contributing
 1.  Fork the repository.
